@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Millioner</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="start">Начать</string>
+    <string name="startText">Добро пожаловать в \"Кто хочет стать миллионером?\"</string>
+    <string name="counter">Задание №</string>
+    <string name="result">Поздравляем, вы прошли испытание!</string>
+    <string name="resultIfAllRight">И стали миллионером!</string>
+    <string name="resultIfNotAllRight">Но к сожалению не стали миллионером(</string>
+    <string name="retry">Желаете ли вы пройти его еще раз?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="numOfRightAnswers">Колличество \n правильных ответов:</string>
+
+
+    <string name="taskFor1">В чем измеряется интенсивность света?</string>
+    <string name="var1For1">в канделах</string>
+    <string name="var2For1">в вольтах</string>
+    <string name="var3For1">в паскалях</string>
+    <string name="var4For1">в парсеках</string>
+
+    <string name="taskFor2">Как называеться теория о превращении массы в енергию?</string>
+    <string name="var1For2">теория относительности</string>
+    <string name="var2For2">теория флуктуации</string>
+    <string name="var3For2">теория о базоне Хиггса</string>
+    <string name="var4For2">теорема Пифагора</string>
+
+    <string name="taskFor3">Сколько нейтронов у необагащенного урана (238-ой)?</string>
+    <string name="var1For3">3</string>
+    <string name="var2For3">4</string>
+    <string name="var3For3">10</string>
+    <string name="var4For3">235</string>
+
+    <string name="taskFor4">В каком году Колумб открыл Америку?</string>
+    <string name="var1For4">1492</string>
+    <string name="var2For4">1495</string>
+    <string name="var3For4">лет 500 назад</string>
+    <string name="var4For4">1592</string>
+
+    <string name="taskFor5">Термин, означающий зависимость от загара -</string>
+    <string name="var1For5">танорексия</string>
+    <string name="var2For5">анорексия</string>
+    <string name="var3For5">агорафобия</string>
+    <string name="var4For5">интервенция</string>
+
+    <string name="taskFor6">Соединения в которых в присутствует группа из нескольких атомов, к которым присоединяются лиганды</string>
+    <string name="var1For6">комплексы</string>
+    <string name="var2For6">полимеры</string>
+    <string name="var3For6">ионы</string>
+    <string name="var4For6">гомологи</string>
+
+    <string name="taskFor7">Витамины какой группы овечают за развитие роста человека?</string>
+    <string name="var1For7">группы В</string>
+    <string name="var2For7">группы С</string>
+    <string name="var3For7">группы А</string>
+    <string name="var4For7">группы D</string>
+
+</resources>
